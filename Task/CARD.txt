@@ -1,0 +1,63 @@
+ <div class="grant_parent">
+        <div class="parent">
+            <div class="child">
+                <p>haaaa</p>
+
+            </div>
+            
+        
+            <div class="child">
+
+                
+            </div>
+           
+        
+            <div class="child">
+                
+            </div>
+           
+        
+            <div class="child">
+                <p>haaa</p>
+                
+            </div>
+           
+        </div>
+    </div>
+
+
+.grant_parent{
+    width: 100vw;
+    height: auto;
+    background-color: rgb(212, 99, 99);
+}
+
+.parent{
+    width: 80vw;
+    height: auto;
+    margin: auto;
+    
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+
+    
+}  
+.child{
+    
+    height: 300px;
+    
+    flex: 1;
+    margin: 10px;
+    
+}
+.child:nth-child(odd){
+    background-color: indigo;
+}
+.child:nth-child(even){
+background-color: lightcoral;
+}
+@media (max-width:768) {.grant_parent{height: auto;}
+    
+}

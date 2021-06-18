@@ -1,0 +1,144 @@
+#btnlogin{
+    border-radius: 5px;
+    padding-left: 5p;
+    padding-right: 5px; 
+}
+#btnsignup{
+    border-radius: 5px;
+    
+}
+.table .thead-light th {
+    color: #495057;
+    background-color: #dee2e6;
+    border-color: #ffffff ;
+}
+.btnPlan{
+    border-radius: 16px;
+    background: #f5f5f5;
+    color: blue;
+    border: transparent;
+    padding: 5px;
+    font-size: 16px;
+    width: 118px;
+    position: relative;
+    right: 26px;
+}
+#head{
+    align-items: center;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.bol {
+    font-weight: bold;
+    font-size: 24px;
+}
+.bl{
+    color: blue;
+}
+.fa-check:before {
+    content: "\f00c";
+    color: blue;
+}
+.fa-remove:before, .fa-close:before, .fa-times:before {
+    content: "\f00d";
+    color: red;
+}
+.img2{
+    float: right;
+    padding-bottom: 44px;
+    padding-top: 90px;
+    max-width: 54%;
+    height: auto;
+}
+#widt{
+    position: absolute;
+    margin-top: -309px;
+    height: 150px;
+    margin-left: 222px;
+}
+#img4{
+    
+    position: absolute;
+    margin-top: -102px;
+    width: 151px;
+    margin-left: 258px;
+
+}
+.sec2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: center;
+    background-color: gainsboro;
+    
+}
+.col_1{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.card-deck{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.card{
+    justify-content: center;
+    width: 90vw;
+    
+}
+.car{
+    background-color: #8a2be2;
+   
+    height: 200px;
+}
+.card-footer{
+    background-color: hsl(271, 76%, 53%);
+     height: 30px;
+}
+.sec3{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: center;
+    
+    
+}
+.col_2{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.sec4{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: center;
+    background: #dcdcdc;
+
+}
+.col_3{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.inp{
+    background: transparent;
+    width: 85%;
+    border-radius: 8px;
+}
+
+h6{
+    font-size: 16px;
+}
+.sec_footer{
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+@media (max-width:768) {.sec2{height: auto;}
+    
+}
