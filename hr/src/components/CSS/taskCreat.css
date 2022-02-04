@@ -1,0 +1,18 @@
+.taskhead{
+    margin-top: 10vh;
+    margin-left: 18vw;
+    /* overflow: fixed; */
+}
+
+.taskheadview{
+    margin-top: 5vh;
+    margin-left:0vw;
+    /* overflow: scroll; */
+}
+
+.taskheadAdd{
+    /* overflow: fixed; */
+    margin-top: 10vh;
+    margin-left: 8vw;
+
+}
