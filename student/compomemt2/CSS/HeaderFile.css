@@ -1,0 +1,41 @@
+/* header Part */
+.hed{
+    /* width: 100vw; */
+        height: 10vh;
+    background-color: #34495E;
+
+}
+
+/* Sidebar Head */
+
+.hedm{
+    height: 10vh;
+    background-color: #2E4053 ;
+
+}
+/* Sidebar Body */
+.side{
+    height: 90vh;
+    width: 15vw;
+    background-color: rgb(133, 191, 206);
+}
+/* Sidebar Head */
+
+.high{
+    margin-top: 29px;
+    text-align: center;
+    /* font-weight: bold;
+    font-weight: 900; */
+    display:ruby;
+
+
+}
+
+.high:hover{
+    cursor:pointer ;
+    height: 40px;
+    background-color: #d0d6db;
+   
+}
+
+
